@@ -57,7 +57,7 @@
 main{
     position:relative;
     height: 50%;
-    background-image: linear-gradient(to right, rgba(223,232,239,100%)10%,rgba(243,249,249,100%)65%,rgba(211,217,217,10%)100%),url("https://cdn.glitch.global/4dec3a68-563a-4741-9332-1a81cb02bfb9/cloche.jpg?v=1647201983679");
+    background-image: linear-gradient(to right, rgba(223,232,239,100%)10%,rgba(243,249,249,100%)65%,rgba(211,217,217,10%)100%),url("Images/cloche.jpg");
     background-repeat: no-repeat;
     background-size:contain;
     background-position:100%;
@@ -102,7 +102,7 @@ main input+input{
   /**  About  **/
   /************************************************************/
   .About{
-    background: linear-gradient(to right, rgba(240,240,240,25%),rgba(255,255,255,100%)50%),url("https://cdn.glitch.global/4dec3a68-563a-4741-9332-1a81cb02bfb9/Fine-Dining2.jpg?v=1647200008151");
+    background: linear-gradient(to right, rgba(240,240,240,25%),rgba(255,255,255,100%)50%),url("Images/Fine-Dining2.jpg");
     background-repeat:no-repeat;
     background-size:contain;
     height:100vh;
